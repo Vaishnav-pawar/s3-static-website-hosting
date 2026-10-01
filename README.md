@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # AWS S3 Static Website Hosting
 
 ## 📌 Project Overview
@@ -29,13 +28,24 @@ The main objective of this project is to understand how a static website can be 
 
 ## 📁 Project Structure
 
-```text
-aws-s3-static-website/
 │
 ├── index.html
 ├── style.css
 ├── script.js
+├── images/
+│   ├── s3-bucket.png
+│   ├── upload-files.png
+│   └── website.png
 └── README.md
-=======
-# s3-static-website-hosting
->>>>>>> ccc0fa2346ead828cf3f515198918aa95c72fbe1
+
+## 📸 Screenshots
+
+### S3 Bucket
+![S3 Bucket](./images/s3-bucket.png)
+
+### Uploaded Files
+![Uploaded Files](./images/upload-files.png)
+
+### Working Website
+![Working Website](./images/website.png)
+
