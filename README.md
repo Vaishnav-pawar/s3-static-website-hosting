@@ -40,10 +40,10 @@ The main objective of this project is to understand how a static website can be 
 
 ## 📸 Screenshots
 
-### S3 Bucket
+### uploaded file
 ![S3 Bucket](./images/s3-bucket.png)
 
-### Uploaded Files
+### s3 buket
 ![Uploaded Files](./images/upload-files.png)
 
 ### Working Website
