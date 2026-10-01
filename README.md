@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AWS S3 Static Website Hosting
 
 ## 📌 Project Overview
@@ -35,3 +36,6 @@ aws-s3-static-website/
 ├── style.css
 ├── script.js
 └── README.md
+=======
+# s3-static-website-hosting
+>>>>>>> ccc0fa2346ead828cf3f515198918aa95c72fbe1
